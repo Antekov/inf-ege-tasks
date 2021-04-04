@@ -2,4 +2,4 @@
 
 ## Статград
 
-- [2021-02](inf-ege-tasks\2021\tests\Statgrad-EGE-2021-02)
+- [2021-02](./Statgrad-EGE-2021-02)
