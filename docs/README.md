@@ -30,7 +30,7 @@
     - [Задание 18](./)
 - [Используем Word](./)
     - [Задание 10](./)
-- [Поверхностное знакомство с Python](https://colab.research.google.com/drive/1i561M-skhlb8FM0_39Yy55XzrG7pH8nY)
+- [Поверхностное знакомство с Python](https://colab.research.google.com/drive/1TWH8txjHvyqE88W_uLrxA-Qhvf7Cs1Q-)
 - [Частично используем Python](./)
     - [Задание 2](https://colab.research.google.com/drive/17oKtvfDKYr0rS-EkB9LDcFz8XOF-e0X5)
     - [Задание 5](https://colab.research.google.com/drive/1KRwMzicHCO9_CM5lreqiCIVyPqzQ8zAZ)
